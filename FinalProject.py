@@ -1,5 +1,5 @@
 # User Choosing Options
-n =
+
 while n:
     print("What do you want to do? \n 1.Add new contact\n 2.Update contact\n 3.Delete contact\n 4.Search contact\n")
     user = int(input("Enter your option: "))
