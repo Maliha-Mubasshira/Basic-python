@@ -45,3 +45,8 @@ while n:
 #
 #      if search in names:
 #             print(names.)
+a = 1
+b = 1
+
+print(a==b)
+print("My name is Shawal".strip("S"))
